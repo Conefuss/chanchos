@@ -1,0 +1,39 @@
+h1 {
+    text-align: center;
+    color: aquamarine
+}
+
+h2 {
+    color: lightblue;
+    text-align: center;
+}
+
+
+.asd {
+    background-color: gray;
+    display: grid;
+    justify-content: center;
+    padding-bottom: 10vh;
+    margin-left: 10vw;
+    margin-right: 10vw;
+    border-radius: 20px;
+
+}
+
+.boton {
+    display: grid;
+    justify-content: center;
+
+}
+
+.chancho {
+    display: flex;
+    flex-direction: column;
+    width: 100vw;
+    justify-content: center;
+}
+
+.c1{ 
+    justify-content: center;
+    width: 100%;
+}
